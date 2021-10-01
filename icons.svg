@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <symbol fill="none" id="sprite-fav" viewBox="0 0 18 17">
+        <title>fav</title>
+        <path d="m9.001 2.739-.671-.608a4.362 4.362 0 0 0-6.038.17A4.494 4.494 0 0 0 2.1 8.4l6.898 6.978 6.9-6.978a4.493 4.493 0 0 0-.192-6.1L9 2.739Zm0 0 .671-.609m-.67.609.67-.609m0 0a4.36 4.36 0 0 1 6.035.17l-6.035-.17Z"
+              stroke="#BDBDBD" stroke-width="2"/>
+    </symbol>
+    <symbol fill="none" id="sprite-Frame" viewBox="0 0 21 20">
+        <title>Frame</title>
+        <g clip-path="url(#a)" stroke="#3A9EFD" stroke-width="2" stroke-miterlimit="10">
+            <path d="M1.69 8c-.07-.345.206-.759.551-.828h17.104c.414 0 .69.276.69.69V8L18.24 18.345c-.069.345-.345.552-.69.552H4.173c-.344 0-.62-.207-.69-.552L1.69 8Z"/>
+            <path d="M8.448.965 5.69 6.483M13.276.965l2.759 5.518-2.76-5.518Z" stroke-linecap="round"
+                  stroke-linejoin="round"/>
+        </g>
+        <defs>
+            <clipPath id="a">
+                <path fill="#fff" d="M0 0h21v20H0z"/>
+            </clipPath>
+        </defs>
+    </symbol>
+    <symbol fill="none" id="sprite-Star" viewBox="0 0 12 12">
+        <title>Star</title>
+        <path d="M5.53 1.3a.5.5 0 0 1 .94 0l1.106 3.054a.5.5 0 0 0 .453.33l3.248.107a.5.5 0 0 1 .29.894L9.003 7.681a.5.5 0 0 0-.173.533l.901 3.122a.5.5 0 0 1-.76.553l-2.69-1.822a.5.5 0 0 0-.561 0l-2.69 1.822a.5.5 0 0 1-.761-.553l.9-3.122a.5.5 0 0 0-.172-.533L.433 5.685a.5.5 0 0 1 .29-.894l3.248-.107a.5.5 0 0 0 .453-.33L5.53 1.3Z"
+              fill="#E77E42"/>
+    </symbol>
+    <symbol fill="none" id="sprite-update" viewBox="0 0 11 14">
+        <title>update</title>
+        <path d="M5.31 10.626h1.703l-2.196 2.196L5.995 14l4.225-4.225-.026-.027.026-.027-4.218-4.218L4.824 6.68l2.282 2.282H5.31a3.652 3.652 0 0 1-3.646-3.646A3.658 3.658 0 0 1 5.31 1.663 3.652 3.652 0 0 1 8.956 5.31h1.664A5.316 5.316 0 0 0 5.31 0 5.316 5.316 0 0 0 0 5.31c0 2.928 2.382 5.316 5.31 5.316Z"
+              fill="#fff"/>
+    </symbol>
+</svg>
